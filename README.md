@@ -3,17 +3,18 @@
 <h1>Armando Vidrio 👀</h1>
 
 <h3>Computer Systems Engineering Student</h3>
+
 <br/>
+
 <div align="center">
-    ✅ My main experience is developing programs and systems with **Python** and **Java**
-
-    👨‍💻 I’m currently working on **a marketplace made with .NET and Entity Framework Core**
-
-    📈 I’m currently learning **AWS, .NET CORE**
-    🎓 My expected graduation date is in **December 2025**
-
+    <p>✅ My main experience is developing programs and systems with **Python** and **Java**</p>
+    <p>🎓 My expected graduation date is in **December 2025**</p>
+    <p>👨‍💻 I’m currently working on **a marketplace made with .NET and Entity Framework Core**</p>
+    <p>📈 I’m currently learning **AWS, .NET CORE**</p>
 </div>
+
 <hr/>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/armando-vidrio-9b008725b/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -31,13 +32,13 @@
 
 <h2 align="center">🔨 Languages and Tools</h2>
 <br/>
-<div align="center" width="30px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
+<div align="center">
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
 </div>
