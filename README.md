@@ -4,8 +4,6 @@
     <h3>Computer Systems Engineering Student</h3>
 </div>
 
----
-
 <div align="center">
     <p>✅ My main experience is developing programs and systems with <strong>Python</strong> and <strong>Java</strong></p>
     <p>🎓 My expected graduation date is <strong>December 2025</strong></p>
@@ -43,5 +41,3 @@
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
 </div>
-
--
