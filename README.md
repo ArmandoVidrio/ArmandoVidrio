@@ -1,4 +1,4 @@
-<!-- space for the visitors icon-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ducho.Ducho" />
 <div align="center">
     <h1>Armando Vidrio 👀</h1>
     <h3>Computer Systems Engineering Student</h3>
