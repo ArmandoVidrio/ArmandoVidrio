@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/armando-vidrio-9b008725b/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    <a href="https://www.youtube.com/watch?v=er0EjyCEZRA"> 
+    <a href="https://armandovidrio.github.io/"> 
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
     </a>
     <a href="mailto:avidrio39@gmail.com"> 
