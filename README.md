@@ -6,9 +6,12 @@
 <br/>
 <div align="center">
     ✅ My main experience is developing programs and systems with **Python** and **Java**
+
     👨‍💻 I’m currently working on **a marketplace made with .NET and Entity Framework Core**
+
     📈 I’m currently learning **AWS, .NET CORE**
     🎓 My expected graduation date is in **December 2025**
+
 </div>
 <hr/>
 <div align="center">
@@ -28,7 +31,7 @@
 
 <h2 align="center">🔨 Languages and Tools</h2>
 <br/>
-<div align="center">
+<div align="center" width="30px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
