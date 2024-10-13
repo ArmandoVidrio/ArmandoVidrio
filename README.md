@@ -1,16 +1,17 @@
 <!-- space for the visitors icon-->
-
+<div align="center">
 <h1>Armando Vidrio 👀</h1>
 
 <h3>Computer Systems Engineering Student</h3>
-
+</div>
 <br/>
 
 <div align="center">
-    <p>✅ My main experience is developing programs and systems with **Python** and **Java**</p>
-    <p>🎓 My expected graduation date is in **December 2025**</p>
-    <p>👨‍💻 I’m currently working on **a marketplace made with .NET and Entity Framework Core**</p>
-    <p>📈 I’m currently learning **AWS, .NET CORE**</p>
+    <p>✅ My main experience is developing programs and systems with <strong>Python</strong> and <strong>Java</strong></p>
+    <p>🎓 My expected graduation date is <strong>December 2025</strong></p>
+    <p>👨‍💻 I’m currently working on <strong>a marketplace made with .NET and Entity Framework Core</strong></p>
+    <p>📈 I’m currently learning <strong>AWS, .NET CORE</strong></p>
+
 </div>
 
 <hr/>
@@ -30,7 +31,7 @@
 
 <hr/>
 
-<h2 align="center">🔨 Languages and Tools</h2>
+<h2 align="center">🔨 Languages and Tools 🔨</h2>
 <br/>
 <div align="center">
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -39,7 +40,7 @@
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="60px" style="padding-right:10px" ssrc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
