@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">🔨 Languages and Tools 🔨</h2>
+<h2 align="center" style="padding-down:5px">🔨 Languages and Tools 🔨</h2>
 <br/>
 <div align="center">
     <img width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
