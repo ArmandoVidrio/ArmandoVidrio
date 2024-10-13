@@ -1,20 +1,18 @@
 <!-- space for the visitors icon-->
 <div align="center">
-<h1>Armando Vidrio 👀</h1>
-
-<h3>Computer Systems Engineering Student</h3>
+    <h1>Armando Vidrio 👀</h1>
+    <h3>Computer Systems Engineering Student</h3>
 </div>
-<br/>
+
+###
 
 <div align="center">
     <p>✅ My main experience is developing programs and systems with <strong>Python</strong> and <strong>Java</strong></p>
     <p>🎓 My expected graduation date is <strong>December 2025</strong></p>
-    <p>👨‍💻 I’m currently working on <strong>a marketplace made with .NET and Entity Framework Core</strong></p>
+    <p>👨‍💻 I’m currently working on a <strong>marketplace made with .NET and Entity Framework Core</strong></p>
     <p>📈 I’m currently learning <strong>AWS, .NET CORE</strong></p>
 
 </div>
-
-<hr/>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/armando-vidrio-9b008725b/"> 
@@ -29,7 +27,7 @@
 
 </div>
 
-<hr/>
+###
 
 <h2 align="center">🔨 Languages and Tools 🔨</h2>
 <br/>
@@ -45,3 +43,5 @@
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
 </div>
+
+#
